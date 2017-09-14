@@ -1,9 +1,8 @@
    
 rm(list=ls())
-##install.packages(c('nloptr','VGAM','parallel','data.table','ggplot2'))
+##install.packages(c('nloptr','parallel','data.table','ggplot2'))
 library(parallel)
 library(nloptr)
-library(VGAM)
 library(ggplot2)
 library(data.table)
 getwd()
