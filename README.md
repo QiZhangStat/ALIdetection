@@ -23,3 +23,7 @@ The following are the column names and their meanings of these data files.
 
 Note that ff the motif related items of a SNP are all "NA", it means that there is no known
 motif at this SNP with either pval.mat.atSNP or pval.pat.atSNP less than 0.01.
+
+
+The unrefereed manuscript with supplementary materials is also uploaded, and the official link of the advanced access artical is the following
+https://academic.oup.com/biostatistics/article-abstract/doi/10.1093/biostatistics/kxx060/4591647?redirectedFrom=fulltext
